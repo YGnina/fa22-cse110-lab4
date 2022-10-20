@@ -22,4 +22,25 @@
   - E. student.courseLoad[0]
  
  13.
+  - A. '32', because 2 maps to its exact string representation
+  - B. 1, beacause '3' is converted to a number
+  - C. 3, because null maps to 0
+  - D. '3null', becuase null is converted to a string
+  - E. 4, because true maps to 1
+  - F. 0, becasue false and null map to 0
+  - G. '3undefined', becuase undefined is converted to a string
+  - H. NaN, because undefined cannot map to a number and the conversion failed
+  
+ 14.
+  - A. true, because '2' is converted to a number and it's greater than 1
+  - B. false, because '2' and '12' are treated as strings and alphabetically 2 is greater than 1
+  - C. true, because '2' is converted to a number and it's equal to 2
+  - D. false, because '2' and 2 have different data types
+  - E. false, because true maps to 1 and 1 is not equal to 2
+  - F. true, because Boolean convert 2 as true, which has an equal value and type as true.
+ 
+ 15.
+ == only compares the value while === compares both value and type.
+ 
+ 
  
