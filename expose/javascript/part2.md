@@ -45,4 +45,6 @@
  
  17.
  The result should be [2,4,6]. 
- In this modifyArray function, it takes [1,2,3] as the array parameter and doSomething as the function parameter. It goes throught each element in array, doSomething, push it back to a new assigned array and return it. Because doSomething doubles the value of given parameter, the result should be doubled.
+ In this modifyArray function, it takes [1,2,3] as the array parameter and doSomething as the function parameter. It goes throught each element in array, doSomething, push it back to a new assigned array and return it. Because doSomething doubles the value of given parameter, the result should be doubled.\
+ 
+ 19. It prints 1 4 3 2
